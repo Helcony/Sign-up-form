@@ -1,1 +1,1 @@
-UI de cadastro com HTML e CSS.
+UI de cadastro com HTML e CSS
